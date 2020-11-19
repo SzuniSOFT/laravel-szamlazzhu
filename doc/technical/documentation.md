@@ -20,6 +20,12 @@ Or you can use dependency injection.
 ### Receipt
 [Receipt documentation](receipt.md)
 
+## Full reference
+- [Client](client-full-reference.md)
+- [Invoice](invoice-full-reference.md)
+- [ProformaInvoice](proforma-invoice-full-reference.md)
+- [Receipt](receipt-full-refrence.md)
+
 ## Error handling
 The following exceptions may be thrown by the client.
 ### API Errors
